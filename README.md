@@ -49,3 +49,5 @@
 [![p0l0's TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/p0l0.png)](https://tryhackme.com/p/p0l0)
 
 [![p0l0's GitHub stats](https://github-readme-stats.vercel.app/api?username=p0l0&count_private=true&show_icons=true&theme=blueberry&hide_title=true&hide_border=true&line_height=21)](https://github.com/p0l0/github-readme-stats)
+
+[![p0l0's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=p0l0&layout=compact&count_private=true&show_icons=true&theme=blueberry&hide_title=true&hide_border=true&line_height=21)](https://github.com/p0l0/github-readme-stats)
