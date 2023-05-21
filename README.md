@@ -2,7 +2,7 @@
 
 ---
 
-20+ years of professional expirience in software development. Strong focus on Enterprise Software, IT Security and Smarthome. Working currently at Head of Development.
+20+ years of professional expirience in software development. Strong focus on Enterprise Software, IT Security and Smarthome. Working currently as Head of Development.
 
 #### 💻 Technologies & Tooling
 
